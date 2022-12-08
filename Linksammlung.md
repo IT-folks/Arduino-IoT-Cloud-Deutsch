@@ -26,11 +26,24 @@ https://docs.arduino.cc/arduino-cloud/getting-started/technical-reference
 
 ## Webhook - Datenspeicherung/Historisierung in Google sheets
 
+Eine Beschreibung der Google Tabellenverarbeitung "Sheets"
+
 https://www.google.com/sheets/about/
+
+Eine Beschreibung der Google App scripts
+
+https://www.google.com/script/start/
+
+Eine Schritt für Schritt Anleitung für Verknüpfung der Arduino IoT Cloud mittels
+Webhooks mit Google Sheets
 
 https://create.arduino.cc/projecthub/Arduino_Genuino/arduino-iot-cloud-google-sheets-integration-71b6bc
 
-Modifizierte Version des AppScript
+Für den Kurs modifizierte Version des AppScript
 
-https://github.com/arduino/arduino-iot-google-sheet-script/issues/4
+https://github.com/IT-folks/Arduino-IoT-Cloud-Deutsch/blob/main/GoogleSheetsAppScript.js
+
+(see https://github.com/arduino/arduino-iot-google-sheet-script/issues/4 )
+
+https://www.google.com/script/start/
 
