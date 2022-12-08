@@ -9,6 +9,8 @@ Teilweise sind die verlinkten Inhalte leider auf Englisch. Ihr könnt aber die m
 
 [Arduino Nano RP2040 Connect Documentation](https://docs.arduino.cc/hardware/nano-rp2040-connect)
 
+[im Shop](https://store.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect-with-headers)
+
 ## Software
 
 [Arduino Create Agent](https://create.arduino.cc/getting-started/plugin/install)
