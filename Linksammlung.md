@@ -17,6 +17,18 @@ Teilweise sind die verlinkten Inhalte leider auf Englisch. Ihr könnt aber die m
 
 https://docs.arduino.cc/arduino-cloud/getting-started/technical-reference
 
+
 ## Sample sketch used in the course
 
 [IoT Cloud Sketch](https://github.com/IT-folks/Arduino-IoT-Cloud-Deutsch/tree/main/sketches/RP2040ConnectBasic_dec06a)
+
+## Webhook - Datenspeicherung/Historisierung in Google sheets
+
+https://www.google.com/sheets/about/
+
+https://create.arduino.cc/projecthub/Arduino_Genuino/arduino-iot-cloud-google-sheets-integration-71b6bc
+
+Modifizierte Version des AppScript
+
+https://github.com/arduino/arduino-iot-google-sheet-script/issues/4
+
