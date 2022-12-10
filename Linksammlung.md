@@ -13,7 +13,7 @@ Teilweise sind die verlinkten Inhalte leider auf Englisch. Ihr könnt aber die m
 
 ## Software
 
-[Arduino Create Agent](https://create.arduino.cc/getting-started/plugin/install)
+[Arduino Create Agent](https://create.arduino.cc/getting-started/plugin/welcome)
 
 ## IoT Cloud Tutorials
 
