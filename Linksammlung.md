@@ -47,3 +47,16 @@ https://github.com/IT-folks/Arduino-IoT-Cloud-Deutsch/blob/main/GoogleSheetsAppS
 
 https://www.google.com/script/start/
 
+## Lorawan
+
+[Wikipedia LoRaWAN](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network)
+
+[The Things Network](https://www.thethingsnetwork.org)
+
+[The Things Network map of Gateways](https://www.thethingsnetwork.org/map)
+
+[LoRa Duty Cycle](https://lora-developers.semtech.com/documentation/tech-papers-and-guides/the-book/packet-size-considerations)
+
+[Arduino IoT Cloud TTN Dashboard](https://cloud.arduino.cc/home/)
+
+[Arduino MKR WAN 1310](https://store.arduino.cc/products/arduino-mkr-wan-1310)
