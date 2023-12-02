@@ -15,6 +15,8 @@ Teilweise sind die verlinkten Inhalte leider auf Englisch. Ihr könnt aber die m
 
 [Arduino Create Agent](https://create.arduino.cc/getting-started/plugin/welcome)
 
+[Create Agent Installer](https://create.arduino.cc/getting-started/plugin/install)
+
 ## IoT Cloud Tutorials
 
 https://docs.arduino.cc/arduino-cloud/getting-started/technical-reference
